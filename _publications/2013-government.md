@@ -14,7 +14,7 @@ key aspect for electoral support in the new party system of the Second
 Republic – exploring the influence that TV coverage exerts on approval
 net of traditional accounts of government support. Relying on both
 aggregate time series and pooled individual-level surveys analyses, it
-is shown that communication has a sizable impact on government approval.
+is shown that communication has a sizeable impact on government approval.
 The popularity of Centre-Left and Centre-Right governments is affected
 evenly by the economy but differently by the news coverage of their
 activity. People with lower political interest are the most reactive to
