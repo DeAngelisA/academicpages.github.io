@@ -1,7 +1,7 @@
 ---
 title: "euandi: Project Description and Datasets Documentation"
 collection: publications
-permalink: /publication/2015-euandi.md
+permalink: /publication/2015-euandi
 excerpt: 'In occasion of the European Parliament elections of 2014, EUDO launched euandi (reads: EU and I). The academic relevance of the euandi endeavour lies primarily in its choice to stick to the party positioning methodology already employed by the EU Profiler in 2009 as well as in the choice to keep as many policy items as possible in the 2014 questionnaire in order to allow cross-national, longitudinal research on party competition and voting behaviour in the EU across a five-year period. In this paper, we present the euandi project in a nutshell, the making of the questionnaire and the way in which political parties have been coded. Then, we illustrate the functioning of the application and the specifics of the resulting user dataset, comprising the opinions of 400.000 unique users that completed the euandi questionnaire during the six weeks preceding the EP elections of 2014.'
 date: 2015
 venue: 'Robert Schuman Centre for Advanced Studies Research Paper'

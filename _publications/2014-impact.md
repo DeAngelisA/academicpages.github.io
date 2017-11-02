@@ -1,7 +1,7 @@
 ---
 title: "The impact of Voting Advice Applications on electoral participation"
 collection: publications
-permalink: /publication/2014-impact.md
+permalink: /publication/2014-impact
 excerpt: 'With the growing number of voters resorting to VAAs at election time, interest has arisen concerning the potential effect of these tools on the political behaviour of the users. We focus on one of the crucial questions in this strand of literature, namely: What is the effect of VAA-usage on users’ patterns of electoral participation? We analyse survey data from Finland, Germany, Netherlands, and Switzerland, with treatment effect model to tackle the issue of self-selection into VAA usage. Results point towards a significant impact of VAAs on electoral participation.'
 date: 2014
 venue: 'ECPR Press'
