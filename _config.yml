@@ -82,7 +82,7 @@ author:
   avatar           : "profile.png"
   bio              : "Political scientist. My research interests include comparative political behaviour, political communication, political methodology, European and Italian politics."
   location         : "Luzern, Switzerland"
-  employer         : "Universität Luzern"
+  employer         :
 # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "Andrea.DeAngelis@unilu.ch"
   uri              :
@@ -249,7 +249,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Rome # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
