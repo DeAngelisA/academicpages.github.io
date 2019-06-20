@@ -1,7 +1,7 @@
 ---
 title: "Replication Seminar: Doing Research, in Practice!"
 collection: teaching
-type: "Master course (open to BA students)"
+type: "Master seminar"
 permalink: /teaching/2019-spring-teaching-1
 venue: "Lucerne University"
 date: 2018-09-01

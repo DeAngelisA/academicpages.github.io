@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Political Communication Research"
 collection: teaching
-type: "Master course"
+type: "Master seminar"
 permalink: /teaching/2017-spring-teaching-1
 venue: "Lucerne University"
 date: 2017-02-01

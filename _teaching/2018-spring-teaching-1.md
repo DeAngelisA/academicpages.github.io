@@ -1,7 +1,7 @@
 ---
 title: "Comparing Media Systems"
 collection: teaching
-type: "Master course (open to BA students)"
+type: "Master seminar"
 permalink: /teaching/2018-spring-teaching-1
 venue: "Lucerne University"
 date: 2018-09-01

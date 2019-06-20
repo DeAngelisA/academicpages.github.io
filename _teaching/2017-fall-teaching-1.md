@@ -1,7 +1,7 @@
 ---
 title: "Research Design in a Quantitative Perspective"
 collection: teaching
-type: "Master course (open to BA students)"
+type: "Master seminar"
 permalink: /teaching/2017-fall-teaching-1
 venue: "Lucerne University"
 date: 2017-09-01
