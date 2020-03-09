@@ -1,7 +1,8 @@
 ---
-title: "Taking Cues from the Government: Heuristic versus Systematic Processing in a Constitutional Referendum"
+title: "Who is afraid of a change? Ideological differences
+in support for the status quo in direct democracy"
 collection: publications
-permalink: /publication/2019-taking
+permalink: /publication/2019-whoisafraid
 excerpt: 'Research has documented that individuals display a bias for preserving the status quo across numerous domains of decision-making, including elections for candidates and referendums. Yet, it is not clear whether thinking about a political reform as a change to the status quo actually makes voters less likely to support it. We investigate this possibility in a referendum campaign, in which we prime a representative sample of voters with a “change cue” evoking the modification of the status quo related to a proposed reform. Our findings show that support for a referendum proposal decreases when voters consider that it will change the status quo, but only among right-wing voters. The effect is stronger among less knowledgeable voters on the right (but not on the left) of the political spectrum. Furthermore, we find that the priming manipulation has no effect in the presence of campaign arguments, thus suggesting that voters might discard peripheral cues when substantial policy information is available. These findings have relevant implications for the goal of achieving political change in democratic politics, and highlight the key role of ideology in moderating the status-quo bias in political decision-making.'
 date: 2019-12-02
 venue: 'Journal of Elections, Public Opinion and Parties'
