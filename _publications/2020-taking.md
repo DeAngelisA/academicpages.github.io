@@ -13,6 +13,6 @@ One of the main criticisms of direct democracy is that it places excessive deman
 
 [Link to pre-print](https://deangelisa.github.io/files/taking-cues.pdf)
 
-[Link to published version](https://www.tandfonline.com/doi/full/10.1080/01402382.2019.1633836)
+[Link to published version](https://www.tandfonline.com/doi/full/10.1080/01402382.2019.1633836), a [post](https://blogs.lse.ac.uk/europpblog/2016/11/18/new-survey-evidence-italian-referendum-2016/) appeared on the LSE EUROPP blog. The study was also mentioned [in this roundup commentary](https://blogs.lse.ac.uk/europpblog/2016/12/03/italys-constitutional-referendum-a-roundup-of-the-political-commentary/) regarding the 2016 Italian constitutional referendum.
 
 Recommended citation: De Angelis, Andrea, Colombo, Celine, and Morisi, Davide (2020). Taking cues from the government: heuristic versus systematic processing in a constitutional referendum. West European Politics, Vol. 43(4): 845 - 868.
